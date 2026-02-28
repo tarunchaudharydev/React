@@ -1,0 +1,1 @@
+React is a UI Library. We use react because it is component based and modular 
