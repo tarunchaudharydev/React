@@ -1,0 +1,6 @@
+# hook --> useState
+so, react provide some functionalities like 
+state management, side effect logic etc.,
+so, the way to use those functionalities are called hook.
+
+like you create any component so all the component can place a state with itself.
